@@ -78,7 +78,7 @@
       "type": "mens",
       "newPrice": "$280", 
       "oldPrice": "$470",
-      "smartType":"all"
+      "smartType":"smart"
     }, {
       "image": "img10.jpg",
       "id": 10,
@@ -86,7 +86,7 @@
       "type": "unisex",
       "newPrice": "$276", 
       "oldPrice": "$400",
-      "smartType":"all"
+      "smartType":"smart"
     }, {
       "image": "img11.jpg",
       "id": 11,
@@ -94,7 +94,7 @@
       "type": "unisex",
       "newPrice": "$26", 
       "oldPrice": "$100",
-      "smartType":"all"
+      "smartType":"smart"
     }, {
       "image": "img12.jpg",
       "id": 12,
@@ -102,7 +102,7 @@
       "type": "girls",
       "newPrice": "$67", 
       "oldPrice": "$800",
-      "smartType":"all"
+      "smartType":"smart"
     }, {
       "image": "img13.jpg",
       "id": 13,
@@ -110,7 +110,7 @@
       "type": "unisex",
       "newPrice": "$167", 
       "oldPrice": "$390",
-      "smartType":"all"
+      "smartType":"smart"
     }, {
       "image": "img14.jpg",
       "id": 14,
@@ -118,7 +118,7 @@
       "type": "unisex",
       "newPrice": "$100", 
       "oldPrice": "$430",
-      "smartType":"all"
+      "smartType":"smart"
     }, {
       "image": "img15.jpg",
       "id": 15,
